@@ -1,0 +1,26 @@
+body {
+  background-color: #f2c58a;
+  text-align: center;
+}
+
+h1, p{
+  color: #593302;
+  text-shadow: 1px 1px 1px;
+}
+
+input{
+  background-color: #f5951b;
+  border: 1pt solid #593302;
+  border-radius: 15px;
+  width: 250px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-weight: bold;
+  margin: 5px;
+  opacity: 70%;
+}
+
+input:hover{
+  transform: scale(1.05);
+  opacity: 90%;
+}
